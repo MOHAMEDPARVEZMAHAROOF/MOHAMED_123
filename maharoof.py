@@ -20,8 +20,6 @@ for lottery in range(1, 100):
         cout = cout + 1
     elif(lottery == f):
         cout = cout + 1
-    elif(lottery == g):
-        cout = cout + 1
     elif(lottery == h):
         cout = cout + 1
     if(cout == 61):
